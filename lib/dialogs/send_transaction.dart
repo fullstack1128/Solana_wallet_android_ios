@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:solana/solana.dart';
 import 'package:fyfypay/dialogs/transaction_errored.dart';
 import 'package:fyfypay/dialogs/transaction_sent.dart';
 import 'package:fyfypay/state/store.dart';

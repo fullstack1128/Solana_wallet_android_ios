@@ -5,12 +5,12 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_redux/flutter_redux.dart';
-import 'package:solana/solana.dart' show Wallet;
-import 'package:fyfypay/dialogs/send_transaction.dart';
-import 'package:fyfypay/dialogs/transaction_info.dart';
-import 'package:fyfypay/state/store.dart';
 import 'package:tuple/tuple.dart';
 import 'package:worker_manager/worker_manager.dart';
+
+import '../dialogs/send_transaction.dart';
+import '../dialogs/transaction_info.dart';
+import '../state/store.dart';
 
 class UnsupportedTransactionCard extends StatelessWidget {
   @override

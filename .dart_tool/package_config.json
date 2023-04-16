@@ -530,13 +530,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "FyfyMobileWallet",
+      "name": "fyfypay",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-04-16T11:33:26.621231Z",
+  "generated": "2023-04-16T17:34:01.166405Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
